@@ -3,7 +3,7 @@ echo "===================================="
 echo "Install obfuscatify.sh automatically."
 echo "===================================="
 
-cat << EOT > obfuscatify.sh
+cat << 'EOT' > obfuscatify.sh
 #!/bin/sh
 
 # # save current dir to turn back here after script was finished.
