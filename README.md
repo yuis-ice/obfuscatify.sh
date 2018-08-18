@@ -19,6 +19,14 @@ then You get obfuscatified JS code in your clipboard!!:heart_eyes:
 
 ## Quick installation
 
+if you do not have javascript-obfuscator yet, install with npm like below.
+
+```
+sudo npm install --global javascript-obfuscator
+```
+
+then,
+
 ```
 wget https://github.com/yuis-ice/obfuscatify.sh/raw/master/autoinstall.sh
 . autoinstall.sh
